@@ -10,8 +10,3 @@
 
 **2025-03 | ByteDance**
 床旁心脏超声AI模型研究及其在低血 压病因诊断中的应用,福建省立医院,福建省科技创新联合资金项目
-
-
-#### Key Contributions:  
-- Shiying Lin, Rong Hu, Zuoyong Li, Qinghua Lin, Kun Zeng and Xiang Wu, "KAC-Unet: A Medical Image Segmentation With the Adaptive Group Strategy and Kolmogorov-Arnold Network ”, IEEE Transactions on Instrumentation and Measurement, 2025, 74113. (中科院二区, IF:5.6, DOI:10.1109/TIM.2025.3545699)
-
