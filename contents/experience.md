@@ -1,21 +1,17 @@
 ### **Software Engineer Intern**  
-**January 2025 – June 2025 | ByteDance**  
+**2023-11 | ByteDance**  
+数据受限的多模态胃镜图像异常识别与早癌风险评估研究,国家自然科学基金,面上项目
 
-Worked on the development and optimization of large-scale recommendation systems, focusing on algorithm improvements and system efficiency enhancements. Contributed to real-time data processing pipelines and model optimization for personalized content delivery.
+**2023-11 | ByteDance**  
+面向MRI影像的前列腺癌智能诊断研究,福建省省立医院,福建省科技厅联合创新项目
+
+**2024-08 | ByteDance**  
+自主可控的高效AI移动终端研发及产业化 ,新大陆科技集团有限公司,福建省技术创新重点攻关 及产业化项目
+
+**2025-03 | ByteDance**
+床旁心脏超声AI模型研究及其在低血 压病因诊断中的应用,福建省立医院,福建省科技创新联合资金项目
+
 
 #### Key Contributions:  
-- Developed and optimized recommendation algorithms to enhance user engagement and content relevance.  
-- Designed and implemented real-time data processing workflows to improve model inference efficiency.  
-- Conducted A/B testing and performance analysis to refine recommendation strategies based on user behavior data.  
+- Shiying Lin, Rong Hu, Zuoyong Li, Qinghua Lin, Kun Zeng and Xiang Wu, "KAC-Unet: A Medical Image Segmentation With the Adaptive Group Strategy and Kolmogorov-Arnold Network ”, IEEE Transactions on Instrumentation and Measurement, 2025, 74113. (中科院二区, IF:5.6, DOI:10.1109/TIM.2025.3545699)
 
----
-
-### **软件工程师实习生**  
-**2025年1月 – 2025年6月 | 字节跳动**  
-
-负责大规模推荐系统的开发与优化，专注于算法改进和系统效率提升。参与实时数据处理管道的构建，并优化模型推理流程，以提升个性化内容推荐效果。
-
-#### 主要贡献:  
-- 研发并优化推荐算法，提高用户互动率和内容相关性。  
-- 设计并实现实时数据处理流程，提升模型推理的计算效率。  
-- 进行A/B测试与性能分析，基于用户行为数据优化推荐策略。
