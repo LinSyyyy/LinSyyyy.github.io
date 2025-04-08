@@ -6,8 +6,8 @@ I'm currently pursuing a Master's degree in Fujian University of Technology, Mas
 <code>linsyyin@163.com</code>  
 
 #### Education  
-**Fujian University of Technology**, Master of Computer Technology  
+**福建理工大学**, 计算机技术 (硕士)
 • GPA: 3.78/5 
 
 #### Research Interests  
-XX, XX, XX, XX.
+机器学习, 深度学习，计算机视觉 
